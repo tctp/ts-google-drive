@@ -2,11 +2,11 @@
   "author": "Terence",
   "name": "ts-google-drive",
   "description": "Manage google drive easily. Support create folders, upload files, download files, searching, etc..",
-  "version": "0.0.3",
-  "homepage": "https://github.com/terence410/ts-google-drive",
+  "version": "0.0.4",
+  "homepage": "https://github.com/tctp/ts-google-drive",
   "repository": {
     "type": "git",
-    "url": "git://github.com/terence410/ts-google-drive.git"
+    "url": "git://github.com/tctp/ts-google-drive.git"
   },
   "main": "build/index.js",
   "engines": {
