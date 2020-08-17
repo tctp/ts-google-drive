@@ -16,8 +16,7 @@
     "test": "mocha --exit --timeout 30000 -r ts-node/register tests/*.ts",
     "test:coverage": "nyc --reporter=json --reporter=text mocha --exit --timeout 30000 -r ts-node/register tests/*.ts",
     "npm:patch": "npm version patch",
-    "build": "tsc",
-    "postinstall": "tsc"
+    "build": "tsc"
   },
   "dependencies": {
     "google-auth-library": "^5.10.1"
